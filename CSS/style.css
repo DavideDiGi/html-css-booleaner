@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    
+}
+header{
+    height: 20%;
+    
+}
+#banner{
+    height: 40%;
+    background-image: url(../img/pattern.png);
+    background-color: dodgerblue;
+    background-size: contain;
+    
+}
+#banner img{
+    width: 12%;
+    margin-top: 35px;
+}
+#title{
+    margin-top: 10px;
+    
+}
+#firma{
+    color: gray;
+}
+#firma span{
+    color: #31afe7;
+}
+#date{
+    color: grey;
+    font-size: 12px;
+}
+
