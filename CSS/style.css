@@ -5,8 +5,7 @@
 }
 
 .container{
-    height: 100vh;
-    
+    /* height: 100vh; */    
 }
 header{
     height: 20%;
@@ -47,4 +46,24 @@ header{
 ul{
     margin-top: 30px;
     margin-left: 20px;
+}
+table{
+    margin-top: 30px;
+    width: 100%;
+    text-align: left;
+    border-spacing: 0;
+}
+thead{
+    background-color: #20a9e5;
+    color: white;   
+}
+tbody{
+}
+.blue{
+    background-color: #B1e5f2
+
+    ;
+}
+.right{
+   max-width: 300px; 
 }
