@@ -5,18 +5,17 @@
 }
 
 .container{
-    /* height: 100vh; */    
+    margin-left: 5px;
 }
 header{
     height: 20%;
-    
 }
 #banner{
+    margin-left: -5px;
     height: 40%;
     background-image: url(../img/pattern.png);
     background-color: dodgerblue;
     background-size: contain;
-    
 }
 #banner img{
     width: 12%;
@@ -24,7 +23,6 @@ header{
 }
 #title{
     margin-top: 10px;
-    
 }
 #firma{
     color: gray;
@@ -57,13 +55,12 @@ thead{
     background-color: #20a9e5;
     color: white;   
 }
-tbody{
-}
 .blue{
-    background-color: #B1e5f2
-
-    ;
+    background-color: #B1e5f2;
 }
 .right{
    max-width: 300px; 
+}
+.yellow{
+    background-color: yellow;
 }
